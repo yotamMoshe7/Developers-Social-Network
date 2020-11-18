@@ -1,6 +1,7 @@
 # Developers Social network
 Build and deploy a social network with Node.js, Express, React, Redux, Postman and MongoDB.
 Functionality:
+
  • User registration and log in.
  • Profile page for each user with links for other social networks.
  • Edit profile, add experience, add education, delete account.
