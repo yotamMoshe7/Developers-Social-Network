@@ -7,6 +7,6 @@ Functionality:
  • Edit profile, add\delete: experience, education.  
  • Add\delete a post, like to a post.  
  • Add comment to post.  
- • Deploy to Heroku.  
+ • Deploy to Heroku: https://shielded-stream-00926.herokuapp.com/posts.  
 
 
