@@ -6,7 +6,7 @@ Build and deploy social network with Node.js, Express, React, Redux, Postman and
 
 # Sign In Page
 Functionality:  
- • User registration.
+ • User registration.</br>
  • User log in. 
  
  ![‏‏לכידה](https://user-images.githubusercontent.com/57434735/115693272-73396680-a368-11eb-834e-ea16e8472773.PNG)
