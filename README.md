@@ -9,12 +9,16 @@ Functionality:
  • User registration.
  • User log in. 
  
- 
+ ![‏‏לכידה](https://user-images.githubusercontent.com/57434735/115693272-73396680-a368-11eb-834e-ea16e8472773.PNG)
+
+# Main Page
 Functionality:  
  • Profile page for each user with links for other social networks.  
  • Edit profile, add experience, add education, delete account.  
  • Edit profile, add\delete: experience, education.  
  • Add\delete a post, like to a post.  
- • Add comment to post.  
+ • Add comment to post.
+ 
+ 
 
 
