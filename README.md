@@ -21,6 +21,8 @@ Functionality:
  
  ![image](https://user-images.githubusercontent.com/57434735/115693492-a7148c00-a368-11eb-92c7-11ed5961518b.png)
  
+ ![image](https://user-images.githubusercontent.com/57434735/115693938-11c5c780-a369-11eb-9e66-243e0122f062.png)
+ 
 # Start Project Instructions
 Type in terminal:
 1. npm start.
